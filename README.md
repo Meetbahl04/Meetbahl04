@@ -1,3 +1,4 @@
+![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Meet Bahl</h1>
 <h3 align="center">A passionate Machine Learning Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGR6eWxubHgxN3Z3YjJjaHJhbmdtMTRwZnp4aDA1dzlleGZpNHc4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7ZerdezTT72sWC1W/giphy.gif">
